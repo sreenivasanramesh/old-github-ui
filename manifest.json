@@ -12,7 +12,8 @@
   "content_scripts": [
     {
       "matches": ["https://github.com/*/*"],
-	    "css": ["old.css"]
+      "exclude_globs": ["https://github.com/*/*/pulse", "https://github.com/*/*/settings", "https://github.com/*/*/pull/*"],
+      "css": ["old.css"]
     }
   ]
 }
