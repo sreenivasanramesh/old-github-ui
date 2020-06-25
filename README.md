@@ -31,7 +31,7 @@ And many other UI fixes such as fix the text width of issue counters and issue l
 
 #### 3, 4, 5: add row separators, use classic buttons, remove circular images
 
-![Before](/img/doc/screenshot-main-before.png?raw=true)
+![Before](/img/doc/screenshot-main-before.png)
 <p align="center">
 VS
 </p>
