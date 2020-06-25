@@ -32,19 +32,25 @@ And many other UI fixes such as fix the text width of issue counters and issue l
 #### 3, 4, 5: add row separators, use classic buttons, remove circular images
 
 ![Before](/img/doc/screenshot-main-before.png?raw=true)
-vs
+<p align="center">
+VS
+</p>
 ![After](/img/doc/screenshot-main-after.png)
 
 #### 1. Move headers to main content area
 
 ![Headers Before](/img/doc/screenshot-headers-before.png)
-vs
+<p align="center">
+VS
+</p>
 ![Headers After](/img/doc/screenshot-headers-after.png)
 
 #### 2. Highlight selected page in header
 
 ![Selectors Before](/img/doc/screenshot-selected-before.png)
-vs
+<p align="center">
+VS
+</p>
 ![Selectors After](/img/doc/screenshot-selected-after.png)
 
 ## Disclaimer
