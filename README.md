@@ -33,19 +33,19 @@ And many other UI fixes such as fix the text width of issue counters and issue l
 
 ![Before](/img/doc/screenshot-main-before.png?raw=true)
 vs
-![After](img/doc/screenshot-main-after.png)
+![After](/img/doc/screenshot-main-after.png)
 
 #### 1. Move headers to main content area
 
-![Headers Before](img/doc/screenshot-headers-before.png)
+![Headers Before](/img/doc/screenshot-headers-before.png)
 vs
-![Headers After](img/doc/screenshot-headers-after.png)
+![Headers After](/img/doc/screenshot-headers-after.png)
 
 #### 2. Highlight selected page in header
 
-![Selectors Before](img/doc/screenshot-selected-before.png)
+![Selectors Before](/img/doc/screenshot-selected-before.png)
 vs
-![Selectors After](img/doc/screenshot-selected-after.png)
+![Selectors After](/img/doc/screenshot-selected-after.png)
 
 ## Disclaimer
 
