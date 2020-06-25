@@ -12,6 +12,7 @@
   "content_scripts": [
     {
       "matches": ["https://github.com/*/*"],
+      "exclude_globs": ["https://github.com/*/*/pulse", "https://github.com/*/*/settings"],
 	    "css": ["old.css"]
     }
   ]
