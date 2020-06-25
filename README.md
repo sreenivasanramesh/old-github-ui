@@ -11,7 +11,7 @@ GitHub rolled out a brand new UI on June 23, 2020. There are a aspects of the ne
 
 ## Installation
 
-Installation is extremely easy: just go to [the Chrome extension store](https://sramesh.me) or [Firefox add-ons page](https://sramesh.me) and install with one button click there.
+Installation is extremely easy: just go to [the Chrome extension store](https://chrome.google.com/webstore/detail/old-github-ui/dhifdlfedboijpanpblghhhakpnncadb) or [Firefox add-ons page](https://addons.mozilla.org/en-US/firefox/addon/old-github-ui/) and install with one button click there.
 
 ## Features
 
