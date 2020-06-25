@@ -31,8 +31,6 @@ And many other UI fixes such as fix the text width of issue counters and issue l
 
 #### 3, 4, 5: add row separators, use classic buttons, remove circular images
 
-<p align="center">
-
 ![Before](/img/doc/screenshot-main-before.png)
 VS
 ![After](/img/doc/screenshot-main-after.png)
@@ -48,7 +46,7 @@ VS
 ![Selectors Before](/img/doc/screenshot-selected-before.png)
 VS
 ![Selectors After](/img/doc/screenshot-selected-after.png)
-</p>
+
 
 ## Disclaimer
 
