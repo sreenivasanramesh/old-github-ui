@@ -11,7 +11,7 @@ GitHub rolled out a brand new UI on June 23, 2020. There are a aspects of the ne
 
 ## Installation
 
-Installation is extremely easy: just go to [the Chrome extension store](https://sramesh.me) or [Firefox add-ons page](https://sramesh.me) and install with one button click there.
+Installation is extremely easy: just go to [the Chrome extension store](https://chrome.google.com/webstore/detail/old-github-ui/dhifdlfedboijpanpblghhhakpnncadb) or [Firefox add-ons page](https://addons.mozilla.org/en-US/firefox/addon/old-github-ui/) and install with one button click there.
 
 ## Features
 
@@ -31,8 +31,6 @@ And many other UI fixes such as fix the text width of issue counters and issue l
 
 #### 3, 4, 5: add row separators, use classic buttons, remove circular images
 
-<p align="center">
-
 ![Before](/img/doc/screenshot-main-before.png)
 VS
 ![After](/img/doc/screenshot-main-after.png)
@@ -48,7 +46,7 @@ VS
 ![Selectors Before](/img/doc/screenshot-selected-before.png)
 VS
 ![Selectors After](/img/doc/screenshot-selected-after.png)
-</p>
+
 
 ## Disclaimer
 
