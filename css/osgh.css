@@ -205,11 +205,11 @@ body .repository-content .BorderGrid-row .BorderGrid-cell a .Counter {
 }
 
 /* Readme dont display*/
-body .repository-content .BorderGrid-row:nth-child(1) > .BorderGrid-cell > div:nth-child(7){
+body .repository-content .BorderGrid-row:nth-child(1) > .BorderGrid-cell > div.mt-3:nth-last-child(2){
   display: none !important;
 }
 
-body .repository-content .BorderGrid-row:nth-child(1) > .BorderGrid-cell > div:nth-last-child(1){ 
+body .repository-content .BorderGrid-row:nth-child(1) > .BorderGrid-cell > div.mt-3:nth-last-child(1){ 
   display: none !important;
 }
 
