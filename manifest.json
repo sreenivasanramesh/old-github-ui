@@ -14,7 +14,8 @@
       "matches": ["https://github.com/*/*"],
       "exclude_globs": ["https://github.com/*/*/pulse", "https://github.com/*/*/settings", 
                         "https://github.com/*/*/pull/*", "https://github.com/*/*/issues/*",
-                        "https://github.com/*/*/compare/*", "https://github.com/*/*/graphs/*"],
+                        "https://github.com/*/*/compare/*", "https://github.com/*/*/graphs/*",
+                        "https://github.com/*/*/community", "https://github.com/*/*/network/*"],
       "css": ["old.css"]
     }
   ]
