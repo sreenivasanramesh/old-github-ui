@@ -15,7 +15,8 @@
       "exclude_globs": ["https://github.com/*/*/pulse", "https://github.com/*/*/settings", 
                         "https://github.com/*/*/pull/*", "https://github.com/*/*/issues/*",
                         "https://github.com/*/*/compare/*"],
-      "css": ["old.css"]
+      "css": ["old.css"],
+      "run_at": "document_start"
     }
   ]
 }
