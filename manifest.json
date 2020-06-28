@@ -1,6 +1,6 @@
 {
   "name": "Old Github UI",
-  "version": "2.2",
+  "version": "2.3",
   "manifest_version": 2,
   "description": "GitHub changed their UI on 2020-06-23, this extension brings a few items back to their classic look.",
   "icons": {
@@ -11,7 +11,10 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://github.com/*/*"],
+      "matches": [
+        "https://github.com/*",
+        "https://gist.gihub.com/*"
+      ],
       "css": ["headers.css"],
       "run_at": "document_start"
     },
