@@ -24,12 +24,6 @@
                         "https://github.com/*/*/community*"],
       "css": ["repo-content.css"],
       "run_at": "document_start"
-    },
-    {
-      "matches": ["https://github.com/*/*/settings*",
-                  "https://github.com/*/*/community*"],
-      "css": ["only_headers.css"],
-      "run_at": "document_start"
     }
   ]
 }
