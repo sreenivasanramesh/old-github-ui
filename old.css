@@ -243,6 +243,7 @@ body .repository-content .BorderGrid-row:nth-child(1) .BorderGrid-cell .mb-3.h4 
   display: none !important;
 }
 
+
 body .repository-content .BorderGrid-row:nth-child(1) .BorderGrid-cell p.mt-3,  
 body .repository-content .BorderGrid-row:nth-child(1) .BorderGrid-cell div.d-flex {
   display: inline-flex !important;
@@ -262,13 +263,9 @@ body .repository-content .BorderGrid-row .BorderGrid-cell a .Counter {
   border-radius: 0 !important;
 }
 
-/* Readme dont display*/
-body .repository-content .BorderGrid-row:nth-child(1) > .BorderGrid-cell > div.mt-3:nth-last-child(2){
-  display: none !important;
-}
-
-body .repository-content .BorderGrid-row:nth-child(1) > .BorderGrid-cell > div.mt-3:nth-last-child(1){ 
-  display: none !important;
+/* Readme and license on same line*/
+body .repository-content .BorderGrid-row:nth-child(1) > .BorderGrid-cell > div.mt-3:nth-last-child(-n+3) {
+  display: inline-flex !important;
 }
 
 /*Ignore first row - about and last row - programming languages bar*/
