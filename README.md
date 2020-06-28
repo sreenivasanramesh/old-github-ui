@@ -1,5 +1,7 @@
 # Old GitHub UI (Chrome / Firefox extension)
 
+## Note: I'll be archiving this repo soon. All active development will be at [Old School GitHub](https://github.com/daattali/oldschool-github-extension).
+
 > This chrome extension tries to bring back parts of the old User Interface for Github.
 > This is a modified fork of [Old School GitHub](https://github.com/daattali/oldschool-github-extension) made by [Dean Attali](https://deanattali.com).
 
