@@ -12,15 +12,14 @@
   "content_scripts": [
     {
       "matches": ["https://github.com/*/*"],
-      "exclude_globs": ["https://github.com/*/*/settings*",
-                        "https://github.com/*/*/community*"],
-      "css": ["old.css"],
+      "css": ["headers.css"],
       "run_at": "document_start"
     },
     {
-      "matches": ["https://github.com/*/*/settings*",
-                  "https://github.com/*/*/community*"],
-      "css": ["only_headers.css"],
+      "matches": ["https://github.com/*/*"],
+      "exclude_globs": ["https://github.com/*/*/settings*",
+                        "https://github.com/*/*/community*"],
+      "css": ["repo-content.css"],
       "run_at": "document_start"
     }
   ]
